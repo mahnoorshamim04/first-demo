@@ -1,4 +1,5 @@
 # first-demo
 This is my first ever Git Repository.
 <br>
-Author -Mahnoor
+Author -Mahnoor Shamim
+
